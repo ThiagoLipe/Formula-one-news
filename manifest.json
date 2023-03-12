@@ -5,7 +5,7 @@
   "display": "fullscreen",
   "name": "F1news",
   "orientation": "any",
-  "scope": "/",
+  "scope": "https://docs.pwabuilder.com",
   "short_name": "F1news",
   "start_url": "index.html",
   "theme_color": "#00fff4",
